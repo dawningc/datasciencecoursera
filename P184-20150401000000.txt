@@ -10,6 +10,3 @@ RUN TIME   =            00:01:57
 
 DOWN TIME  =            00:00:00
 
-ALARM TIME =            00:13:10
-
-SETUP TIME =            00:44:53
